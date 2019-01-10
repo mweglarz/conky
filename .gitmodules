@@ -1,0 +1,3 @@
+[submodule "weather"]
+	path = weather
+	url = git@github.com:mweglarz/conky_weather.git
