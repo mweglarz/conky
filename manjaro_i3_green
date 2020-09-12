@@ -1,5 +1,5 @@
 conky.config = {
-	alignment = 'top_left',
+	alignment = 'top_right',
 	background = true,
 	-- color2 = '2ECC71',
         color2 = 'ff8600',
